@@ -1,0 +1,10 @@
+$ ruby test_operator.rb
+4
+5
+Ingrese un numero
+Ingrese otro numero
+El resto de la division es: 4
+la adicion es: 9
+El mayor es: 9
+Pertenece a este grupo
+Pertenecen a este grupo

@@ -1,0 +1,7 @@
+ruby force_error.rb
+force_error.rb:18:in `<main>': undefined local variable or method `expresion10'                                                                    for main:Object (NameError)
+I will now count my fruits:
+Bananas:  30
+apples: 97
+Now I will count the potato:
+7

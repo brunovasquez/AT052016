@@ -1,0 +1,8 @@
+$ ruby converter.rb
+Ingrese los segundos a convertir
+3600
+Ingrese 1 para convertir a minutos
+Ingrese 2 para convertir a horas
+Ingrese 3 para convertir a dias
+2
+horas: 1
