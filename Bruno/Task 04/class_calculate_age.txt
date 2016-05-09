@@ -1,0 +1,7 @@
+$ ruby class_calculate_age.rb
+Persona age 30
+Persona name Ana
+Persona age 25
+Persona name Pedro
+La edad en minutes es: 15768000
+La edad en minutes es: 13140000
