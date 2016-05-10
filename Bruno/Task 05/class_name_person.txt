@@ -1,0 +1,4 @@
+$ ruby class_name_person.rb
+Fer
+Hi Bruno
+Bruno Have a nice day

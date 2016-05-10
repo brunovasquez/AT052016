@@ -1,0 +1,3 @@
+$ ruby celcius_to_faringe.rb
+77.0
+12.777777777777779

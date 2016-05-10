@@ -1,0 +1,8 @@
+$ ruby class_variables.rb
+Actually father's amount 100
+Child1: 60
+ Update father's amount: 60
+Child2: 30
+ Update father's amount: 30
+Child3: 10
+Update father's amount: 10

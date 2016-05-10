@@ -1,0 +1,5 @@
+$ ruby costumer_id_change.rb
+Hi BRUNO
+You are our customer 25 Thanks
+Hi FER
+You are our customer 120 Thanks to be our customer
