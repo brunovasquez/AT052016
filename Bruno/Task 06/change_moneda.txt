@@ -1,0 +1,9 @@
+$ ruby change_moneda.rb
+"Ingrese su nombre"
+Bruno
+"Ingrese su Destino"
+La Paz
+Ingrese su Precio
+10
+Bruno,10,La Paz
+1.4450867052023122

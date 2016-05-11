@@ -1,0 +1,4 @@
+$ ruby converter_new.rb
+Ingrese los segundos a convertir
+3600
+Minutos = 60, Horas= 1

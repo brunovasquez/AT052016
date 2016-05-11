@@ -1,0 +1,4 @@
+$ ruby def_method_block.rb
+The value obtained is 10
+The value obtained is 125
+The value obtained is 0
