@@ -1,0 +1,7 @@
+$ ruby calling_library.rb
+Hello
+Hi
+Good Afternoon
+Bye
+Good Bye
+See you later

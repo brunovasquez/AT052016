@@ -1,0 +1,4 @@
+ruby test_arrays_method.rb
+1
+25
+[5, 7, 11]

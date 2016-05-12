@@ -1,0 +1,7 @@
+$ ruby calling_Mixin.rb
+Hello
+Hi
+Good Afternoon
+Bye
+Good Bye
+See you later
