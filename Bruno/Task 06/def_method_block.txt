@@ -1,4 +1,5 @@
 $ ruby def_method_block.rb
 The value obtained is 10
-The value obtained is 125
+I changed the value into the block
+The value obtained is 40
 The value obtained is 0
