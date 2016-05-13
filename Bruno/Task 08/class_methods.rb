@@ -26,15 +26,30 @@ class Methods
      return array_datos,array_alphabetical,array_numerica
 	end
 
-	def method2
-		
+	def method2 array1,array2
+		p array1 & array2
+		puts array1[0] 
+		puts array2[0]
+		puts array1[-1]
+		puts array2[-1]
 	end
+
+	def method3 array1,array2
+		 array1.shift
+		 array2.shift
+		 array1.pop
+		 array2.pop
+		 array1 + array2
+	end	
+
+	def method4 array1
+		 p array1
+	end	
+		
 
 end
 
-valor= Methods.new
-valor.method2, array3 = valor.method1
-p array1
-p array2
-p array3
-
+meth= Methods.new
+array1, array2, array3 = meth.method1
+meth.method2 array1,array2
+meth.method4 meth.method3 array1,array2
