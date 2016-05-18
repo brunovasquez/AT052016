@@ -13,7 +13,10 @@ class Staments
  			when 22..35 then puts "#{@name} you are a adult"
  			else puts calculate_years_hours
  	 	end
+<<<<<<< HEAD
+=======
 
+>>>>>>> fb211b95b97b39ba35442b45365a145a6463c50b
 	end
 
 end
