@@ -1,0 +1,34 @@
+$ ruby class_practice_hash.rb
+Ingrese el numero de datos
+4
+Ingrese  la llave
+for
+Ingrese  el dato
+5
+Ingrese  la llave
+else
+Ingrese  el dato
+6
+Ingrese  la llave
+if
+Ingrese  el dato
+7
+Ingrese  la llave
+while
+Ingrese  el dato
+9
+for
+else
+if
+while
+5
+6
+7
+9
+Insert The key to found
+else
+true
+Insert The date to found
+10
+false
+

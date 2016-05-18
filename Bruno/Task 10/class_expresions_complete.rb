@@ -1,4 +1,5 @@
 class ExpresionEstaments
+<<<<<<< HEAD
 	attr_accessor :hash
 	def initialize
 		@hash={}
@@ -41,3 +42,7 @@ exp.hash
 exp.array_whit_1
 exp.array_whit_a
 exp.between	
+=======
+end
+exp = ExpresionEstaments.new
+>>>>>>> fb211b95b97b39ba35442b45365a145a6463c50b
