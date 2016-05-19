@@ -1,0 +1,6 @@
+Nombre bru12 id bru12 
+Nombre ru12 id ru12 
+Opcion a Calcular 2 
+Cantidad a Calcular 2 
+Opcion a Calcular 1 
+Cantidad a Calcular 1 
