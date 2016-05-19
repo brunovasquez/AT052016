@@ -1,0 +1,10 @@
+|user_0|pass_27|7/27/2026|TRJA|
+|user_1|pass_61|11/13/2017|ORU|
+|user_2|pass_67|5/23/2026|TRJA|
+|user_3|pass_10|2/21/2016|TRJA|
+|user_4|pass_27|7/11/2016|ORU|
+|user_5|pass_14|11/25/2017|ORU|
+|user_6|pass_76|6/14/2025|CBBA|
+|user_7|pass_60|1/27/2018|BENI|
+|user_8|pass_99|3/27/2017|TRJA|
+|user_9|pass_47|12/9/2022|SCR|
