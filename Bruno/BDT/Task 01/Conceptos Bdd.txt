@@ -1,0 +1,41 @@
+Research :
+1.-When and why BDD was defined
+
+R.-In the years 2099 Dan North presented as a response to the problems that arose as:
+Where to start in the process.
+To try and do not try.
+How much testing in a single opportunity.
+How to call evidence.
+Understanding why a test fails.
+
+2.-The most important aspects of BDD
+
+R.-In BDD not only tested units or classes, test scenarios and behavior of the classes in meeting these scenarios, which can be composed of various kinds.
+It helps us focus on what is truly important to the 'business'
+If we generate tests with a particular language, we can serve in making the acceptance test.
+
+3.-Why is useful and when could be applied.
+Collaboration 
+Simple Specification  -> Ubiquitous language
+Easy Feedback 
+Avoid rework in requirements definition
+Self documentation 
+Focus on Behavior 
+
+Which type of teams could implement BDD
+R.-The 3 friends.
+Structure of a feature – Give an example
+Title priority and sizes
+Structure of a user story – Give an example
+As a  costumer
+I want loggin
+So that obtain access to account   
+
+Structure of a scenario – Give an example
+Given sthat a customer actually for dates
+When he returns user validate.
+then I should have number users.
+
+Differences between BDD and BDT
+
+R.-BDD started its activity with the goals pursued by the business in question, while BDT aims to develop a specific business language that allows to describe the behavior of the system without going too much on how that behavior was developed.
