@@ -1,0 +1,14 @@
+$ cucumber search_costumer.feature --dry-run
+*** WARNING: You must use ANSICON 1.31 or higher (https://github.com/adoxa/ansicon/) to get coloured output on Windows
+0 scenarios
+0 steps
+
+
+$ cucumber search_costumer.feature
+*** WARNING: You must use ANSICON 1.31 or higher (https://github.com/adoxa/ansicon/) to get coloured output on Windows
+0 scenarios
+0 steps
+0m0.000s
+
+
+
